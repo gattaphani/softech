@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": "fgdfgdsf",
+      "mobiletwo": "sdfgsfdgsd",
+      "id": 1
+    },
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": "fgdfgdsf",
+      "mobiletwo": "sdfgsfdgsd",
+      "id": 2
+    },
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": "fgdfgdsf",
+      "mobiletwo": "sdfgsfdgsd",
+      "id": 3
+    },
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": "fgdfgdsf",
+      "mobiletwo": "sdfgsfdgsd",
+      "id": 4
+    },
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": "fgdfgdsf",
+      "mobiletwo": "sdfgsfdgsd",
+      "id": 5
+    },
+    {
+      "firstname": "jjhjh",
+      "lastname": "kjjkj",
+      "gender": "female",
+      "marriage": "unmarried",
+      "mobileone": "hjhjhjhjh",
+      "mobiletwo": "jkjkjkjk",
+      "id": 6
+    },
+    {
+      "firstname": "gdf",
+      "lastname": "lklklk",
+      "gender": "male",
+      "marriage": "unmarried",
+      "mobileone": "jkjkjk",
+      "mobiletwo": "kjkjj",
+      "id": 7
+    },
+    {
+      "firstname": "zzas",
+      "lastname": "wewwtwt",
+      "gender": "male",
+      "marriage": "married",
+      "mobileone": 123456789,
+      "mobiletwo": 123456789,
+      "id": 8
+    }
+  ]
+}
